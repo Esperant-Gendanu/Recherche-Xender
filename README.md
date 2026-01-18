@@ -18,4 +18,5 @@ Bien plus qu'un simple outil de transfert, c'est un véritable Hub Multimédia i
        endroit.
 
 L'importance de cette approche ? L'avenir du mobile réside dans la super-app : une seule interface capable de gérer plusieurs flux de données de manière fluide. Utiliser Xender de cette manière, c'est adopter une hygiène numérique plus efficace. Et vous, utilisez-vous Xender uniquement pour les transferts, ou profitez-vous de son lecteur intégré ? 💬
-![Aperçu de Xender](xender.jpg)
+
+![Xender](https://github.com/user-attachments/assets/384ebb37-af94-4cb8-a209-3d2b3779e7b2)
